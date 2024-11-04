@@ -103,7 +103,7 @@ rouille_compilogenese::rouille! {
             "en_tant_que" => "as",
             "Entier" => "Integer",
             "ensuite" => "then",
-            "ensuite_valeur" => "then_some",
+            "ensuite_quelque" => "then_some",
             "déballer_ou" => "unwrap_or",
             "déballer_ou_avec" => "unwrap_or_else",
             "en" => "into",
